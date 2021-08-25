@@ -81,7 +81,7 @@ soupsieve==2.2.1; python_version >= "3.6"
 sqlalchemy==1.4.23; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0")
 starlette==0.14.2; python_version >= "3.6"
 tenacity==8.0.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
-twilio==6.50.1
+twilio==6.63.1
 typing-extensions==3.10.0.0; python_full_version >= "3.6.1" and python_version >= "3.6"
 typing-inspect==0.7.1; python_version >= "3.6"
 urllib3==1.26.6; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version < "4" and python_version >= "3.6"
